@@ -1,2 +1,2 @@
-# 002_google_landing_page
-google page
+# google_landing_page
+google home page
